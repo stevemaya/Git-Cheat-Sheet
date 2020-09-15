@@ -1,6 +1,6 @@
 # Git-Cheat-Sheet
  
-|Command|Action|
+|   Command    |                              Action                                  |
 |--------------|----------------------------------------------------------------------|
 |git status    |Shows what has been modified                                          |
 |git remote    |View full path of Git                                                 |
@@ -10,4 +10,3 @@
 |git commit -m |Works same as commit but leaves message about what was done or changed|
 |git push      |Uploads current changes to current git at git-hub                     |
 |git pull      |Takes all changes and uploads them to personal files                  |
-
