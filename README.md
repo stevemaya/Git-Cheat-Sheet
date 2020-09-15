@@ -1,8 +1,7 @@
 # Git-Cheat-Sheet
-
-|----------|------|git 
-## |Command|Action|
-
+ 
+|Command|Action|
+|----------|------|
 |Status|Shows what has been modified|
 |Remote|View full path of Git|
 |Log|Pulls up everything you've done in Git|
