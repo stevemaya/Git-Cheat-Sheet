@@ -1,4 +1,4 @@
-# Git-Cheat-Sheet
+<p style="text-align: center;"> Git-Cheat-Sheet</p>
  
 |Command|Action|
 |----------|------|
