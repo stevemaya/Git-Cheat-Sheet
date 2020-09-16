@@ -10,4 +10,4 @@
 |git commit -m |Works same as commit but leaves message about what was done or changed|
 |git push      |Uploads current changes to current git at git-hub                     |
 |git pull      |Takes all changes and uploads them to personal files                  |
-|git blame      |Show what revision and author last modified each line of a file              |
+|git blame     |Show what revision and author last modified each line of a file       |
