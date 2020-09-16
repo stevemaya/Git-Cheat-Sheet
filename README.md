@@ -13,4 +13,5 @@
 |git blame     |Show what revision and author last modified each line of a file       |
 
 ## Cloning & Forking
-In order to clone you first need the link to what depository you will be working in. Most of the time you will get it on github however as long as you have the right url you will be fine. The first thing to do after getting the url is to plug it into the terminal. To do this you will type git clone and then the link. Once you do that you are able to cd into the depository and begin collaborating!
+
+*In order to clone you first need the link to what depository you will be working in. Most of the time you will get it on github however as long as you have the right url you will be fine. The first thing to do after getting the url is to plug it into the terminal. To do this you will type git clone and then the link. Once you do that you are able to cd into the depository and begin collaborating!*
